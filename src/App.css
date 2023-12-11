@@ -12,14 +12,6 @@ body {
   animation: hover 15s ease-in-out 19.5s forwards;
 }
 
-.container {
-  /* width: 400px;
-  height: 400px; */
-  /* background-color: rgb(78, 160, 78); */
-  /* backdrop-filter: blur(500px); */
-  /* border: 2px solid red; */
-  /*   animation: hover 3s linear 13s forwards; */
-}
 .BackGlow {
   opacity: 0;
   position: absolute;
