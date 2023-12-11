@@ -20,7 +20,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: -1;
-  animation: body-glow 0.5s linear 15s forwards,
+  animation: body-glow 0.5s linear 15.5s forwards,
     hover 15s ease-in-out 20s forwards;
 }
 .armor {
@@ -38,7 +38,7 @@ body {
   opacity: 0;
   position: absolute;
   top: 680px;
-  left: 1310px;
+  left: 1283px;
   height: 7%;
   width: 7%;
   z-index: 999;
@@ -49,51 +49,63 @@ body {
   opacity: 0;
   position: absolute;
   z-index: 999;
-  width: 7px;
-  height: 60px;
   background-color: rgb(18, 52, 58);
   animation: smash 2s linear 17.2s forwards;
 }
 .line-1 {
   top: 790px;
-  left: 1510px;
+  left: 1490px;
   transform: rotate(140deg);
+  width: 7px;
+  height: 60px;
 }
 .line-2 {
   top: 790px;
   left: 1400px;
   transform: rotate(0deg);
+  width: 7px;
+  height: 60px;
 }
 .line-3 {
   top: 781px;
   left: 1290px;
   transform: rotate(45deg);
+  width: 7px;
+  height: 60px;
 }
 .line-4 {
   top: 681px;
-  left: 1320px;
+  left: 1300px;
   transform: rotate(140deg);
+  width: 7px;
+  height: 60px;
 }
 .line-5 {
   top: 630px;
-  left: 1380px;
+  left: 1360px;
   transform: rotate(-10deg);
+  width: 7px;
+  height: 60px;
 }
 .line-6 {
   top: 630px;
-  left: 1510px;
+  left: 1485px;
   transform: rotate(45deg);
+  width: 7px;
+  height: 60px;
 }
 .line-7 {
   top: 670px;
-  left: 1510px;
+  left: 1488px;
   transform: rotate(90deg);
+  width: 7px;
+  height: 60px;
 }
-.line-8 {
+/* .line-8 {
   top: 790px;
-  left: 1510px;
+  left: 1488px;
   transform: rotate(140deg);
-}
+} */
 
 .cableHigherLeft {
   opacity: 0;
