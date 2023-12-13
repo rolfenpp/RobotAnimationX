@@ -104,7 +104,7 @@ body {
   height: 60%;
   z-index: -1;
   animation: body-appear 0.5s linear 10.3s forwards,
-    hover 16s ease-in-out 20.5s forwards;
+    hover 12s ease-in-out 20.5s forwards;
 }
 .cableHigherRight {
   opacity: 0;
@@ -115,7 +115,7 @@ body {
   height: 60%;
   z-index: -1;
   animation: body-appear 0.5s linear 10.6s forwards,
-    hover 16s ease-in-out 20.5s forwards;
+    hover 12s ease-in-out 20.5s forwards;
 }
 .cableLowerLeft {
   opacity: 0;
@@ -126,7 +126,7 @@ body {
   height: 70%;
   z-index: -1;
   animation: body-appear 0.5s linear 10.9s forwards,
-    hover 16s ease-in-out 20.5s forwards;
+    hover 12s ease-in-out 20.5s forwards;
 }
 .cableLowerRight {
   opacity: 0;
@@ -137,7 +137,7 @@ body {
   height: 70%;
   z-index: -1;
   animation: body-appear 0.5s linear 11.2s forwards,
-    hover 16s ease-in-out 20.5s forwards;
+    hover 12s ease-in-out 20.5s forwards;
 }
 .glow {
   opacity: 0;
@@ -411,26 +411,26 @@ video {
     margin-top: 0px;
   }
   30% {
-    margin-top: 10px;
+    margin-top: 15px;
   }
   40% {
     margin-top: 0px;
   }
   50% {
-    margin-top: 10px;
+    margin-top: 15px;
   }
 
   60% {
     margin-top: 0px;
   }
   70% {
-    margin-top: 10px;
+    margin-top: 15px;
   }
   80% {
     margin-top: 0px;
   }
   90% {
-    margin-top: 10px;
+    margin-top: 15px;
   }
   100% {
     margin-top: 0px;
